@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltBZdFhqXaj2joGYRCfHwDnhBgofdNqg076N3aRXHHo1X2Hw8DnAU/y2yN6Fb6RGLnDmoMJjNKk8+1piaW5now==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haris\\source\\repos\\FormSubmission API\\FormSubmission API\\FormSubmission API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haris\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\haris\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\haris\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\haris\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\haris\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\haris\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
