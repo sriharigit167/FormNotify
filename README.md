@@ -28,5 +28,4 @@ FormNotify is an efficient SMTP-based email service developed using ASP.NET Core
 ### Installation
 
 1. Clone the repository:
-   ```bash
-https://github.com/sriharigit167/FormNotify.git
+   ```bash https://github.com/sriharigit167/FormNotify.git
