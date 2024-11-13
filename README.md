@@ -1,6 +1,6 @@
 # FormNotify
 
-FormNotify is an efficient SMTP-based email service developed using ASP.NET Core Web API, designed to integrate seamlessly with frontend applications. This project allows developers to automate the process of sending form submissions directly to administrators, enhancing communication and streamlining workflows.
+FormNotify is an efficient SMTP-based email service developed using ASP.NET Core Web API, designed to integrate seamlessly with frontend applications. This project allows developers to automate the process of sending form submission information (including any attachments) directly to administrators, enhancing communication and streamlining workflows.
 
 ## Features
 
@@ -28,4 +28,4 @@ FormNotify is an efficient SMTP-based email service developed using ASP.NET Core
 ### Installation
 
 1. Clone the repository:
-   ```bash https://github.com/sriharigit167/FormNotify.git
+https://github.com/sriharigit167/FormNotify.git
